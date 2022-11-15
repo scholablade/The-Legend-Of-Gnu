@@ -1,0 +1,55 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "house",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "carpet_red",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 0,
+  width = 8,
+  height = 240,
+  pattern = "wall_grey_ceiling",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 232,
+  width = 312,
+  height = 8,
+  pattern = "wall_grey_ceiling",
+}
+
+tile{
+  layer = 1,
+  x = 312,
+  y = 0,
+  width = 8,
+  height = 232,
+  pattern = "wall_grey_ceiling",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 0,
+  width = 304,
+  height = 8,
+  pattern = "wall_grey_ceiling",
+}
+

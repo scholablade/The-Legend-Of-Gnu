@@ -1,0 +1,90 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 1000,
+  height = 1000,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "castle",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 1008,
+  height = 1008,
+  pattern = "carpet_red",
+  tileset = "house",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 8,
+  width = 16,
+  height = 992,
+  pattern = "wall_up_brown_0",
+  tileset = "house",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 8,
+  width = 16,
+  height = 992,
+  pattern = "wall_up_brown_0",
+  tileset = "house",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 0,
+  width = 8,
+  height = 24,
+  pattern = "wall_grey_ceiling",
+  tileset = "house",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 24,
+  width = 8,
+  height = 984,
+  pattern = "wall_grey_ceiling",
+  tileset = "house",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 1000,
+  width = 1000,
+  height = 8,
+  pattern = "wall_grey_ceiling",
+  tileset = "house",
+}
+
+tile{
+  layer = 1,
+  x = 1000,
+  y = 0,
+  width = 8,
+  height = 1000,
+  pattern = "wall_grey_ceiling",
+  tileset = "house",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 0,
+  width = 992,
+  height = 8,
+  pattern = "wall_grey_ceiling",
+  tileset = "house",
+}
+

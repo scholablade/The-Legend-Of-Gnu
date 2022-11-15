@@ -1,0 +1,73 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 64,
+  height = 200,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "house",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 64,
+  height = 200,
+  pattern = "ground_rocky_red",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 8,
+  height = 200,
+  pattern = "ground_wood_mosaic_small_1",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 192,
+  width = 56,
+  height = 8,
+  pattern = "ground_wood_mosaic_small_1",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 0,
+  width = 8,
+  height = 192,
+  pattern = "ground_wood_mosaic_small_1",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 0,
+  width = 16,
+  height = 8,
+  pattern = "ground_wood_mosaic_small_1",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 0,
+  width = 16,
+  height = 8,
+  pattern = "ground_wood_mosaic_small_1",
+}
+
+teletransporter{
+  layer = 0,
+  x = 24,
+  y = 0,
+  width = 16,
+  height = 16,
+  destination_map = "FirstDangeon",
+}
+
