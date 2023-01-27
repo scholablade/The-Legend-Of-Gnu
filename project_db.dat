@@ -346,6 +346,16 @@ file{ path = "items/sword.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "items/tunic.lua", author = "Christopho", license = "GPL v3" }
 file{ path = "languages/en/text/strings.dat", author = "Christopho", license = "CC BY-SA 4.0" }
 file{ path = "main.lua", author = "Christopho", license = "GPL v3" }
+file{ path = "maps/A [Gnu's room].dat", author = "Scholablade", license = "CC0" }
+file{ path = "maps/A [Gnu's room].lua", author = "Scholablade", license = "GPL v3" }
+file{ path = "maps/Aunt's room.dat", author = "Scholablade", license = "CC0" }
+file{ path = "maps/Aunt's room.lua", author = "Scholablade", license = "GPL v3" }
+file{ path = "maps/Bossroom.dat", author = "Scholablade", license = "CC0" }
+file{ path = "maps/Bossroom.lua", author = "Scholablade", license = "GPL v3" }
+file{ path = "maps/Dangeoun.dat", author = "Scholablade", license = "CC0" }
+file{ path = "maps/Dangeoun.lua", author = "Scholablade", license = "GPL v3" }
+file{ path = "maps/FirstDangeon.dat", author = "Scholablade", license = "CC0" }
+file{ path = "maps/FirstDangeon.lua", author = "Scholablade", license = "GPL v3" }
 file{ path = "musics/eduardo", author = "Eduardo Dueñas", license = "CC BY-SA 4.0" }
 file{ path = "musics/eduardo/boss.ogg", author = "Eduardo Dueñas", license = "CC BY-SA 4.0" }
 file{ path = "musics/eduardo/cave.ogg", author = "Eduardo Dueñas", license = "CC BY-SA 4.0" }
